@@ -363,4 +363,24 @@ footer {
     margin: 2rem 0;
     border-radius: 30px;
   }
+  .pinker > button {
+    width: 150px;
+    height: 40px;
+    font-size: .8rem;
+  }
+  .pinker h3 {
+    font-size: .8rem;
+  }
+  .pinker{
+    width: 60%;
+    margin-top: 5rem;
+  }
+  .footer-col ul li a {
+    display: flex;
+    flex-direction: column;
+  }
+  .logo img{
+    height: 30px;
+    width: 70%;
+  }
 }
